@@ -1,4 +1,4 @@
-# stylus_template
+# Front end gulp recipe. Contain Stylus and several minifying concat goodies.
 This is a handy boilerplate which contains 
 
 * Stylus as preprocessor 
@@ -8,4 +8,6 @@ This is a handy boilerplate which contains
 * renaming
 
 
-To use simply download and npm init
+To use
+$ npm install
+$ gulp
