@@ -9,5 +9,7 @@ This is a handy boilerplate which contains
 
 
 To use
+
 $ npm install
+
 $ gulp
